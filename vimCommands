@@ -1,9 +1,8 @@
 Basic Vim commands - For getting started
-#vim
-#unix
-#vi
-#commands
 Started learning to use Vim. Some simple commands to get started.
+
+# Source: https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started
+
 
 Vim has two modes.
 1. Insert mode (Where you can just type like normal text editor. Press i for insert mode)
